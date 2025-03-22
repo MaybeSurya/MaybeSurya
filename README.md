@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m a 12th grade student at G.R.D International School<br>👯 I’m looking to collaborate on basic python projects<br>🌱 I’m currently learning Python & Web Development<br>⚡ Reach me out at hey@maybesurya.com<br>Founder & Owner at suryahost.in
+ I’m a 12th grade student at G.R.D International School<br>👯 I’m looking to collaborate on basic python projects<br>🌱 I’m currently learning Python & Web Development<br>⚡ Reach me out at surya@suryahost.in<br>Founder & Owner at suryahost.in
 
 
 ## 🌐 Socials:
